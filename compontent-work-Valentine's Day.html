@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <link rel="stylesheet" href="css/index.css">
+</head>
+
+<body>
+    <div id="app">
+        <header>
+            <h1>Valentine's Day</h1>
+        </header>
+        <main>
+            <component :is="getTab"></component>
+        </main>
+        <footer>
+            <ul>
+                <li v-for="item in list" @click="handleClick(item)">
+                    {{item.text}}
+                </li>
+            </ul>
+        </footer>
+    </div>
+    <script>
+        Vue.component('custom-position', {
+            data() {
+                return {
+                    position: [
+                        { img: "img/a.png" },
+                        { img: "img/b.png" },
+                        { img: "img/c.jpg" },
+                        { img: "img/d.png" },
+                        { img: "img/e.png" },
+                        { img: "img/f.png" },
+                        { img: "img/g.png" },
+                        { img: "img/i 1.png"},
+                        { img: "img/i2.png" },
+                        { img: "img/i3.png" }
+                    ]
+                }
+            },
+            template: `
+                <div>
+                    <ul>
+                        <li v-for="i in position">
+                            <img :src="i.img"  alt="">
+                        </li>
+                    </ul>
+                </div>
+            `
+            
+        })
+        Vue.component('custom-search', {
+            template: `
+                <div>搜索</div>
+            `
+        })
+        Vue.component('custom-my', {
+            template: `
+                <div>我的</div>
+            `
+        })
+        var vm = new Vue({
+            el: "#app",
+            data: {
+                currentab: "poition",
+                list: [
+                    { id: 'position', text: '职位' },
+                    { id: 'search', text: '搜索' },
+                    { id: 'my', text: '我的' },
+                ]
+            },
+            computed: {
+                getTab() {
+                    return 'custom-' + this.currentab
+                }
+            },
+            methods: {
+                handleClick(item) {
+                    this.currentab = item.id
+                }
+            }
+        })
+    </script>
+</body>
+
+</html>

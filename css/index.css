@@ -1,0 +1,69 @@
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,dl,dd,hr,ul,ol,td,input,option,textarea{
+	margin:0;
+	padding:0;
+}
+html,body{
+	height: 100%;
+}
+body{
+	display: flex;
+	flex-direction: column;
+}
+body{
+	font-family: "微软雅黑";
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+img{
+	border: none;
+}
+img{
+	display: block;
+}
+body{
+    background: #f3f3f3;
+}
+#app{
+    height: 100%;
+    display: flex;
+	flex-direction: column;
+}
+header{
+    width: 100%;
+    height: 60px;
+    background: rgb(11, 11, 63);
+    color: pink;
+    font-size: 8px;
+    text-align: center;
+    line-height: 60px;
+}
+main{
+    flex: 1;
+    overflow:auto;
+}
+main li {
+    width: 100%;
+    height: 60px;
+    margin-top: 10px;
+}
+main img{
+    width: 60px;
+    height: 60px;
+}
+footer{
+    width: 100%;
+    height: 60px;
+    background: rgb(8, 8, 31);
+}
+footer li{
+    color: pink;
+    font-size: 8px;
+    text-align: center;
+    line-height: 60px;
+    float:left;
+    width: 33.33%;
+}
