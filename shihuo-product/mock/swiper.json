@@ -1,0 +1,181 @@
+{
+    "swiper" : [
+        {
+            "img" : "http://shihuo.hupucdn.com/def/20191103/182c5e4ad7084111a375d054dac6ac711572757013.jpg",
+            "p" : "匹克 态极系列 闪现1代 篮球鞋",
+            "price" : "￥479",
+            "dis" : "8.0折",
+            "master" : "￥599"
+        },
+        {
+            "img" : "http://shihuo.hupucdn.com/trade/reposition/2019-04-04/2ba7e56d4c54d7614dd377ced65e33ae.png",
+            "p" : "匹克 态极系列 Taichi 1.0 跑鞋",
+            "price" : "￥279",
+            "dis" : "5.9折",
+            "master" : "￥469"
+        },
+        {
+            "img" : "http://shihuo.hupucdn.com/def/20190517/94e2d164671614370b87c751ad97da331558076083.jpg",
+            "p" : "匹克 态极系列 Taichi 1.0 Plus 跑鞋",
+            "price" : "￥359",
+            "dis" : "7.2折",
+            "master" : "￥499"
+        }
+    ],
+    "datalist":[
+        {
+            "id":1,
+            "img":"http://shihuo.hupucdn.com/def/20181105/2355ddafee2bdc0963e346192576c3631541383761.jpg?imageView2/0/w/160/h/160/interlace/1",
+            "h2":"篮球",
+            "p":"纯白系列秒杀"
+        },
+        {
+            "id":2,
+            "img":"http://shihuo.hupucdn.com/def/20180801/a580ec1affbbf4a344974bc92969c7671533133549.jpg?imageView2/0/w/160/h/160/interlace/1",
+            "h2":"跑步",
+            "p":"女王节秒杀"
+        },
+        {
+            "id":3,
+            "img":"http://shihuo.hupucdn.com/def/20170915/0446a5d97bf800d5322341aab554035d1505460763.jpg?imageView2/0/w/160/h/160/interlace/1",
+            "h2":"健身",
+            "p":"步瑞特装备秒杀"
+        },
+        {
+            "id":4,
+            "img":"http://shihuo.hupucdn.com/def/20170919/3be93b46f0580a025e26ecc4a444e4b81505807923.jpg?imageView2/0/w/160/h/160/interlace/1",
+            "h2":"足球",
+            "p":"其实是在吹总裁"
+        },
+        {
+            "id":5,
+            "img":"http://shihuoproxy.hupucdn.com/aHR0cDovL2ltZy5hbGljZG4uY29tL2ltZ2V4dHJhL2kyLzI1NTA1OTI4MDYvVEIybmJKRHJoeG1wdUZqU1pGTlhYWHJSWFhhXyEhMjU1MDU5MjgwNi5qcGc?imageView2/0/w/160/h/160/interlace/1",
+            "h2":"潮流",
+            "p":"78元短袖秒杀"
+        },
+        {
+            "id":6,
+            "img":"http://shihuo.hupucdn.com/appZone/201710/1115/fb28046c97c697100532cc86745f8703.jpg?imageView2/0/w/160/h/160/interlace/1",
+            "h2":"数码",
+            "p":"2020"
+        }
+    ],
+    "itemlist":[
+        {
+            "id":1,
+            "img":"http://shihuo.hupucdn.com/appHome/201807/1811/1d039f64648d5e33025c747ec6420060.jpg?imageView2/2/w/120/h/120/interlace/1",
+            "h3":"今日优惠",
+            "p":"EQT 5折好价"
+        },
+        {
+            "id":2,
+            "img":"http://shihuo.hupucdn.com/appHome/201802/0716/5d0eea37252cd190ba0975b3e5e1f49e.png?imageView2/2/w/120/h/120/interlace/1",
+            "h3":"限时团购",
+            "p":"春节不打烊"
+        },
+        {
+            "id":3,
+            "img":"http://shihuo.hupucdn.com/kupload2018/2019715/15631798110000.jpeg?imageView2/2/w/120/h/120/interlace/1",
+            "h3":"免费抽奖",
+            "p":"识货抽奖 天天免费"
+        }
+    ],
+    "dist":[
+        {
+           "id":1,
+           "img":"http://shihuo.hupucdn.com/appHome/201808/1710/5e683699826e2a13abd239e4e4e36793.jpg",
+           "p":"skullcandy骷髅头耳机",
+           "h3":"卷后低至89元起"
+        },
+        {
+            "id":2,
+            "img":"http://shihuo.hupucdn.com/appZone/201801/3117/dfb166bb32589d4c0c0f33613a7160cc.jpg",
+            "p":"装备腾讯",
+            "h3":"2分钟懂你想要"
+         },
+         {
+            "id":3,
+            "img":"http://shihuo.hupucdn.com/appZone/201807/2411/b9541b36f94bfa8c6c51482e7536eb35.jpg",
+            "p":"实战性价比之选",
+            "h3":"球星支线"
+         },
+         {
+            "id":4,
+            "img":"http://shihuo.hupucdn.com/appZone/201805/1414/c5f797407c24e87cb7648abc937e9955.jpg",
+            "p":"热门资讯",
+            "h3":"最新最热门的数码资讯"
+         },
+         {
+            "id":5,
+            "img":"http://shihuo.hupucdn.com/appZone/201811/1214/2720301b13ee5c2b0003f78125b698ea.jpg",
+            "p":"1000块包全身",
+            "h3":"不说虚话"
+         },
+         {
+            "id":6,
+            "img":"http://shihuo.hupucdn.com/appZone/201811/1216/32de94d3d483749627b0716d9cde722b.png",
+            "p":"潮流圈的编辑们",
+            "h3":"Ta说"
+         }
+        
+    ],
+    "list":[
+        {
+            "id":1,
+            "img":"http://shihuo.hupucdn.com/appZones/201701/1815/18dad2cc843300a3560cca54886957e5.png?imageView2/0/w/400/h/208/interlace/1",
+            "a":"篮球鞋",
+            "a1":"篮球服饰",
+            "a2":"篮球配件",
+            "a3":"篮球",
+            "img1":"http://sh1.hoopchina.com.cn/fis_static/shihuomobile/static/zhuangbei/index/icon-3_b996a60.png" ,
+            "a4":"Nike",
+            "a5":"adidas",
+            "a6":"Jordan",
+            "a7":"全部",
+            "img2":"http://sh1.hoopchina.com.cn/fis_static/shihuomobile/static/zhuangbei/index/icon-3_b996a60.png" 
+            
+        },
+        {
+            "id":2,
+            "img":"http://shihuo.hupucdn.com/appZones/201701/1815/fa1b657f6d267f5ccb6c3213ba7cebd3.png?imageView2/0/w/400/h/208/interlace/1",
+            "a":"跑步鞋",
+            "a1":"跑步服饰",
+            "a2":"跑步配件",
+            "a3":"运动补给",
+            "img1":"http://sh1.hoopchina.com.cn/fis_static/shihuomobile/static/zhuangbei/index/icon-3_b996a60.png" ,
+            "a4":"adidas",
+            "a5":"asics",
+            "a6":"New Balance",
+            "a7":"全部",
+            "img2":"http://sh1.hoopchina.com.cn/fis_static/shihuomobile/static/zhuangbei/index/icon-3_b996a60.png" 
+            
+        },
+        {
+            "id":3,
+            "img":"http://shihuo.hupucdn.com/appZones/201701/1815/d5bdeb4f9dee46e6cf24e239da707bc3.png?imageView2/0/w/400/h/208/interlace/1",
+            "a":"鞋类",
+            "a1":"服饰",
+            "a2":"配件",
+            "a3":"耳机",
+            "img1":"http://sh1.hoopchina.com.cn/fis_static/shihuomobile/static/zhuangbei/index/icon-3_b996a60.png" ,
+            "a4":"Converse",
+            "a5":"CASIO",
+            "a6":"Vans",
+            "a7":"全部",
+            "img2":"http://sh1.hoopchina.com.cn/fis_static/shihuomobile/static/zhuangbei/index/icon-3_b996a60.png" 
+            
+        },
+        {
+            "id":4,
+            "img":"http://shihuo.hupucdn.com/appZones/201701/1815/f08e00fd62f3e0b2561e45c9f5db0272.png?imageView2/0/w/400/h/208/interlace/1",
+            "a":"健身装备",
+            "a1":"健身用品",
+            "a2":"营养补剂",
+            "a3":"全部类目",
+            "img1":"http://sh1.hoopchina.com.cn/fis_static/shihuomobile/static/zhuangbei/index/icon-3_b996a60.png" 
+            
+        }
+
+    ]
+    
+}
